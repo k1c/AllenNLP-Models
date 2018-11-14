@@ -66,4 +66,5 @@ python3 -m allennlp.service.server_simple \
 For a much better front-end visual of the models, check out AllenNLP's demos
 
 Semantic Role Labeling: http://demo.allennlp.org/semantic-role-labeling
+
 Co-reference Resolution: http://demo.allennlp.org/coreference-resolution
