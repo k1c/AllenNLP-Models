@@ -1,6 +1,6 @@
 """
 Install AllenNLP:
-pip3 install AllenNLP
+pip3 install allennlp
 
 other installation options: https://github.com/allenai/allennlp#installation
 
