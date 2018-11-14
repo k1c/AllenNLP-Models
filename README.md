@@ -1,4 +1,5 @@
-# AllenNLP-Models
+# AllenNLP: open-source NLP library, built on PyTorch¶
+
 The goal is to experiment using pretrained models in [AllenNLP](https://allennlp.org/) to make predictions on sentences labeled as gender-biased from [biaslyAI](biaslyAI.com). These predictions could be used to find more gender-biased sentences by observing patterns, or could be used as a first step in data augmentation.
 
 This script takes sample sentences from `biased_sentences.json` and uses AllenNLP's pretrained models (Semantic role labeling or Co-reference Resolution) to make predictions. It outputs the predictions in `biased_sentences_srl.json` or `biased_sentences_coref.json` respectively.
