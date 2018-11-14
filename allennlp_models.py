@@ -1,4 +1,9 @@
 """
+Install AllenNLP:
+pip3 install AllenNLP
+
+other installation options: https://github.com/allenai/allennlp#installation
+
 Usage for Semantic Role Labeling:
 python3 allennlp_models.py \
     https://s3-us-west-2.amazonaws.com/allennlp/models/srl-model-2018.02.27.tar.gz \
